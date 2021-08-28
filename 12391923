@@ -1,5 +1,5 @@
 game.StarterGui:SetCore("SendNotification", {
 	Title = "NOTL.3.0V";
-	Text = "New Update 3.0 ";
+	Text = "New Update 3.0 Join Discord To Get The New Script ";
 	Duration = 15;
 })
